@@ -5,3 +5,32 @@ Blue chevy malibu?
 # Save the figure.
 plt.savefig("analysis/Fig1.png")
 ============================================================================
+
+
+
+============================================================================
+Findings
+
+If we compare the average number of rides between each city type, we'll notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively.
+
+
+The average fare price is higher in rual cities
+
+The mean fare price for urban trips is $24.53.
+The median fare price for urban trips is $24.64.
+The mode fare price for urban trips is ModeResult(mode=array([22.86]), count=array([5])).
+
+The mean fare price for rural trips is $34.62.
+The median fare price for rural trips is $37.05.
+The mode fare price for rural trips is ModeResult(mode=array([37.05]), count=array([2])).
+
+The mean fare price for suburban trips is $30.97.
+The median fare price for suburban trips is $30.75.
+The mode fare price for suburban trips is ModeResult(mode=array([17.99]), count=array([3])).
+
+West Angela has the highest rider count.
+
+The average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively.
+
+The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively.
+============================================================================
